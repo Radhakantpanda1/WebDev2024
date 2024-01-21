@@ -78,4 +78,8 @@ button{
 }
 button:hover{
     background-color: #222222;
+    cursor: pointer;
+}
+.letf>a>img:hover{
+    cursor: pointer;
 }
